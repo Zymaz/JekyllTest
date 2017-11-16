@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: "https://zymaz.github.io/JekyllTest/"
-baseurl: "JekyllTest"
+baseurl: "https://zymaz.github.io/JekyllTest/"
 
 # variables
 name: Your Site Name
