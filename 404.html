@@ -5,3 +5,14 @@ permalink: /404.html
 ---
 
 <p>Sorry this page does not exist... :(</p>
+
+<script>
+alert('404');
+
+ga('send', {
+  hitType: 'event',
+  eventCategory: 'Errors',
+  eventAction: 'load',
+  eventLabel: '404'
+});
+</script>
